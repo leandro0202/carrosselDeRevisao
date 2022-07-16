@@ -4,10 +4,10 @@ const TextPerfil = document.querySelector(".text");
 let c = 0;
 
 const sliderCliente = [
-    {img: "../image/pessoa1.jpg", title: "bryan", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea delenit velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad!"},
-    {img: "../image/pessoa2.jpg", title: "claudio", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea deleniti velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad! "},
-    {img: "../image/pessoa3.jpg", title: "suzan", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea deleniti velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad!"},
-    {img: "../image/pessoa4.jpg", title: "wanda", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea deleniti velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad!"},
+    {img: "image/pessoa1.jpg", title: "bryan", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea delenit velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad!"},
+    {img: "image/pessoa2.jpg", title: "claudio", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea deleniti velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad! "},
+    {img: "image/pessoa3.jpg", title: "suzan", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea deleniti velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad!"},
+    {img: "image/pessoa4.jpg", title: "wanda", text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam, nisi nam est ea deleniti velit minus inventore blanditiis minima consectetur tempore repellendus quos officia, animi nesciunt sit ut voluptatem ad!"},
 
 ]
 
