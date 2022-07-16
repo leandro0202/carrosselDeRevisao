@@ -33,7 +33,7 @@ document.addEventListener("click", e => {
 
     }else if(el.classList.contains("left")){
         c = c - 1;
-        if(c <= 0){
+        if(c < 0){
             c = 3
             imgPerfil.src = `${sliderCliente[c].img}`
             TitlePerfil.innerText = `${sliderCliente[c].title}`
